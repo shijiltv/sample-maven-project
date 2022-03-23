@@ -1,4 +1,4 @@
-peipline{
+pipeline{
 agent any
   stages {
   stage('maven install') {
